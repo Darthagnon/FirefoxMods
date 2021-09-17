@@ -22,3 +22,22 @@ https://pastebin.com/5q2BnKQC
 
 SSB/PWA features are going to be removed
 https://bugzilla.mozilla.org/show_bug.cgi?id=1682593
+
+Tidy bookmarks menu:
+https://www.reddit.com/r/FirefoxCSS/comments/7ffjz9/can_i_remove_open_all_in_tabs_from_the_bookmarks/
+https://www.reddit.com/r/FirefoxCSS/comments/no5wwk/how_to_hide_some_area_of_the_bookmark_tree/
+
+Alleged white flash
+https://www.reddit.com/r/firefox/comments/nk3tu7/ok_seriously_does_anyone_have_any_idea_how_to/
+
+Pinstripe compatibility
+https://addons.mozilla.org/en-US/firefox/addon/pinstripe-pinned-tab-sidebar/
+https://github.com/TRPB/pinstripe
+
+https://www.reddit.com/r/firefox/comments/mvxzhr/proton_bookmarks_menu_too_much_padding/gveyud1/
+
+https://www.reddit.com/r/FirefoxCSS/comments/oapinh/how_to_remove_the_left_and_right_arrow_buttons_if/
+
+https://www.reddit.com/r/FirefoxCSS/comments/obw2wm/edgestyle_vertical_tabs_for_firefox_with_tab/
+
+https://old.reddit.com/r/FirefoxCSS/comments/ppwxwt/just_like_the_old_days_of_chrome/
