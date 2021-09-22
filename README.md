@@ -16,7 +16,13 @@ Collection of Firefox userChrome, CSS, and miscellaneous mods that I use and edi
 ## TODO
 Interesting mods I intend to check out:
 
+Disable accessibility for improved performance
+https://www.reddit.com/r/firefox/comments/p8g5zd/why_does_disabling_accessibility_services_improve/
+
+https://www.reddit.com/r/FirefoxCSS/comments/p9vvkr/tiny_css_to_revert_to_old_tabs/
+
 https://old.reddit.com/r/FirefoxCSS/comments/nh1v54/played_with_proton_new_tab_and_got_this/
+https://www.reddit.com/r/FirefoxCSS/comments/p9tzqo/rotating_bookmarks_on_hover/
 
 https://pastebin.com/5q2BnKQC
 
@@ -29,6 +35,8 @@ https://www.reddit.com/r/FirefoxCSS/comments/no5wwk/how_to_hide_some_area_of_the
 
 Alleged white flash
 https://www.reddit.com/r/firefox/comments/nk3tu7/ok_seriously_does_anyone_have_any_idea_how_to/
+
+https://github.com/overdodactyl/ShadowFox
 
 Pinstripe compatibility
 https://addons.mozilla.org/en-US/firefox/addon/pinstripe-pinned-tab-sidebar/
