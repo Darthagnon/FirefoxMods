@@ -49,3 +49,11 @@ https://www.reddit.com/r/FirefoxCSS/comments/oapinh/how_to_remove_the_left_and_r
 https://www.reddit.com/r/FirefoxCSS/comments/obw2wm/edgestyle_vertical_tabs_for_firefox_with_tab/
 
 https://old.reddit.com/r/FirefoxCSS/comments/ppwxwt/just_like_the_old_days_of_chrome/
+
+https://old.reddit.com/r/FirefoxCSS/comments/q4y80e/tree_style_tabs_rice_details_in_comments/
+
+
+https://www.reddit.com/r/FirefoxCSS/comments/jlooll/block_update_notification_and_block_covid/
+https://winaero.com/disable-updates-firefox-63-above/
+
+https://www.reddit.com/r/FirefoxCSS/comments/qm0ld6/minimalist_ui_for_windows_finally_updated_now/
